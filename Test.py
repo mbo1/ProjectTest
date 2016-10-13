@@ -1,7 +1,7 @@
 import pymongo
 from pymongo import MongoClient
 
-# Connection to Mongo DB
+# Connection to Mongo DB (test)
 client = ''
 db = ''
 try:
